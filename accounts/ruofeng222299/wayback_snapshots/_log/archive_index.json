@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T05:50:13",
+  "last_updated": "2026-08-01T05:50:34",
   "html": {
     "https://web.archive.org/web/20240612162654if_/https://twitter.com/ruofeng222299/status/1800927767749616068": {
       "status": "done",
@@ -5741,9 +5741,9 @@
       "referenced_by": [
         "20260305121344_twitter_com_ruofeng222299_status_2029530799201223025.json"
       ],
-      "last_updated": "2026-08-01T05:37:17",
+      "last_updated": "2026-08-01T05:50:32",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260305121344/https://video.twimg.com/amplify_video/2029530627331235841/vid/avc1/1280x696/fF2Z9En6RwCqUsUv.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HClTbYibQAApsPT.mp4": {
       "status": "done",
@@ -5857,9 +5857,9 @@
       "referenced_by": [
         "20260616055955_twitter_com_ruofeng222299_status_2066762677737910689.json"
       ],
-      "last_updated": "2026-08-01T04:33:41",
+      "last_updated": "2026-08-01T05:50:34",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260616055955/https://video.twimg.com/amplify_video/2066762613414125568/vid/avc1/720x1280/av8qSn8-BUX-o7iz.mp4",
-      "miss_count": 1
+      "miss_count": 2
     }
   },
   "avatars": {
