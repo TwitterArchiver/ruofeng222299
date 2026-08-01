@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2037391764546621874",
+    "created_at": "2026-03-27T04:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T05:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037391764546621874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902691463252852736",
+          "start": 3,
+          "username": "xinggu233893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037391764546621874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037309773486686531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinggu233893: “想自杀”这种话在别人面前讲出来真的很羞耻、很尴尬🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2037391764546621874",
+        "created_at": "2026-03-27T04:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037391764546621874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902691463252852736",
+              "start": 3,
+              "username": "xinggu233893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037391764546621874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037309773486686531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xinggu233893: “想自杀”这种话在别人面前讲出来真的很羞耻、很尴尬🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902691463252852736",
+        "conversation_id": "2037309773486686531",
+        "created_at": "2026-03-26T23:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037309773486686531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037309773486686531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“想自杀”这种话在别人面前讲出来真的很羞耻、很尴尬🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2023.5.12hrt/177cm /od？/自残有点上瘾/喜欢帅哥/喜欢弹吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/暗恋对象@YunoQiu56649/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 233,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 563
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T11:59:41.000Z",
+        "description": "高中牲🤓/含糖中💊/欢迎互fo😘/fo我的我会主动回/MTX🏳️‍⚧️/半炸柜/友同🏳️‍🌈/社恐😖/身高165cm  体重40~45kg/交友dd❤️/接自残、果照定制👈/我就是个跟风的傻逼，请不要骂我/对不起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utopia72320",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utopia72320",
+                "start": 0,
+                "url": "https://t.co/1fYFYOuHT2"
+              }
+            ]
+          }
+        },
+        "id": "1902691463252852736",
+        "location": "天国候车站",
+        "name": "斯仁S-315 🏳️‍⚧️",
+        "pinned_tweet_id": "1930536461499326784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031654885956124672/D2JLoAnJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 128,
+          "like_count": 2743,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/1fYFYOuHT2",
+        "username": "xinggu233893",
+        "verified": false
+      }
+    ]
+  }
+}

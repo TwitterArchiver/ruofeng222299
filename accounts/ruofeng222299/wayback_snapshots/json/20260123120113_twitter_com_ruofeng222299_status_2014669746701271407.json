@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2014245044757442828",
+    "created_at": "2026-01-23T12:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T13:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014669746701271407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595770603113312256",
+          "start": 0,
+          "username": "encoffiner"
+        },
+        {
+          "end": 23,
+          "id": "1741852127583232000",
+          "start": 12,
+          "username": "roaneatan2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014669746701271407",
+    "in_reply_to_user_id": "1595770603113312256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014343214770360565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@encoffiner @roaneatan2 其实他在讽刺中国打工非人性化太累，而日本的工作更加的合理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2014245044757442828",
+        "created_at": "2026-01-23T12:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T13:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014669746701271407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595770603113312256",
+              "start": 0,
+              "username": "encoffiner"
+            },
+            {
+              "end": 23,
+              "id": "1741852127583232000",
+              "start": 12,
+              "username": "roaneatan2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014669746701271407",
+        "in_reply_to_user_id": "1595770603113312256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014343214770360565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@encoffiner @roaneatan2 其实他在讽刺中国打工非人性化太累，而日本的工作更加的合理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595770603113312256",
+        "conversation_id": "2014245044757442828",
+        "created_at": "2026-01-22T14:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014343214770360565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741852127583232000",
+              "start": 0,
+              "username": "roaneatan2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014343214770360565",
+        "in_reply_to_user_id": "1741852127583232000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "言い方悪いけど、残念ながら誰でも出来る仕事をしてる人に対して、マイナスな部分があると周りは容赦ないよ。\nあと賃金も安い。残念ながら世の中そんなもん。\n\n特に技術職とか専門職、その人に価値があるなら多少のマイナスも許される。\n政治家、医者、弁護士、芸能人、技術者…\n\n特別扱いされたい、稼ぎたいなら自分にしか出来ない仕事をするべき。自分の価値を上げるべき。\n\nあと嫌なら自分の国に帰れ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1868,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014245044757442828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roaneatan2 言い方悪いけど、残念ながら誰でも出来る仕事をしてる人に対して、マイナスな部分があると周りは容赦ないよ。\nあと賃金も安い。残念ながら世の中そんなもん。\n\n特に技術職とか専門職、その人に価値があるなら多少のマイナスも許される。\n政治家、医者、弁護士、芸能人、技術者…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "2009.4.16出生，已经接触mtf很长时间，目前hrt忘了（，做跨儿具体原因还是因为我长达1年半的抑郁症导致的吧，希望有缘人提供国内hrt资源...",
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792766072745267200/plkJKVfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 43,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 43
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T13:26:08.000Z",
+        "description": "納棺師という職業をやってます。納棺師の日常を書き込んでいますので、気持ち悪いと思ったらブロックして下さい。",
+        "id": "1595770603113312256",
+        "name": "ちば",
+        "pinned_tweet_id": "1668280112821960704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595770930348769281/XBgjRds5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1712,
+          "like_count": 73504,
+          "listed_count": 4,
+          "media_count": 471,
+          "tweet_count": 5563
+        },
+        "username": "encoffiner",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-01T16:01:30.000Z",
+        "description": "本アカ→ @roaneatan。本アカ凍結時はこちらを利用します。何年も前の投稿の再紹介もします（アカウントが伸びるまでしばらく昔の再投稿多めです）。DMは業者まみれなので見てません",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "roaneatan"
+              }
+            ]
+          }
+        },
+        "id": "1741852127583232000",
+        "name": "ロアネア",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742093397694017536/Mw7Lmm8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 1031,
+          "like_count": 361,
+          "listed_count": 18,
+          "media_count": 438,
+          "tweet_count": 668
+        },
+        "username": "roaneatan2",
+        "verified": true
+      }
+    ]
+  }
+}

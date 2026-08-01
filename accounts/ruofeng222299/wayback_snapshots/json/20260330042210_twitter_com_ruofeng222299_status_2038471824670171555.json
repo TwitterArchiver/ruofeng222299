@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038363961138331648"
+      ],
+      "media_source_tweet_id": [
+        "2038364232643699160"
+      ]
+    },
+    "author_id": "1792759159525654528",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038471824670171555",
+    "created_at": "2026-03-30T04:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038471824670171555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1119614329135955968",
+          "start": 3,
+          "username": "mokeysniper"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rEwgetbMVN",
+          "end": 127,
+          "expanded_url": "https://x.com/mokeysniper/status/2038364232643699160/video/1",
+          "media_key": "13_2038363961138331648",
+          "start": 104,
+          "url": "https://t.co/rEwgetbMVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038471824670171555",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038364232643699160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mokeysniper: The Strafe pattern for the Hemlok is now up on the Recoil-strafe Trainer.\n\nLink below. https://t.co/rEwgetbMVN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28733,
+        "height": 1080,
+        "media_key": "13_2038363961138331648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038363961138331648/img/vXKNpo4brd1Wrw0a.jpg",
+        "public_metrics": {
+          "view_count": 58146
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038363961138331648/pl/JlfAqslWPvigFSeF.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038363961138331648/vid/avc1/1920x1080/rvP8_BCuTwmmM3vu.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038363961138331648/vid/avc1/480x270/RTNcyR3-ApL9ACKM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038363961138331648/vid/avc1/640x360/QglENrLTHHma8PfN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038363961138331648/vid/avc1/1280x720/-EBxjhrBYoSFGpbc.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038363961138331648"
+          ],
+          "media_source_tweet_id": [
+            "2038364232643699160"
+          ]
+        },
+        "author_id": "1792759159525654528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038471824670171555",
+        "created_at": "2026-03-30T04:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038471824670171555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1119614329135955968",
+              "start": 3,
+              "username": "mokeysniper"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEwgetbMVN",
+              "end": 127,
+              "expanded_url": "https://x.com/mokeysniper/status/2038364232643699160/video/1",
+              "media_key": "13_2038363961138331648",
+              "start": 104,
+              "url": "https://t.co/rEwgetbMVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038471824670171555",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038364232643699160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mokeysniper: The Strafe pattern for the Hemlok is now up on the Recoil-strafe Trainer.\n\nLink below. https://t.co/rEwgetbMVN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038363961138331648"
+          ]
+        },
+        "author_id": "1119614329135955968",
+        "conversation_id": "2038364232643699160",
+        "created_at": "2026-03-29T21:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T22:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038364232643699160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEwgetbMVN",
+              "end": 110,
+              "expanded_url": "https://x.com/mokeysniper/status/2038364232643699160/video/1",
+              "media_key": "13_2038363961138331648",
+              "start": 87,
+              "url": "https://t.co/rEwgetbMVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038364232643699160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 695,
+          "impression_count": 137108,
+          "like_count": 1665,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "The Strafe pattern for the Hemlok is now up on the Recoil-strafe Trainer.\n\nLink below. https://t.co/rEwgetbMVN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2023.5.12hrt/177cm /od？/自残有点上瘾/喜欢帅哥/喜欢弹吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/暗恋对象@YunoQiu56649/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 236,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 615
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-20T14:50:32.000Z",
+        "description": "that movement guy.\nHe/Him. \nAll socials https://t.co/O2LM4PBK7t\nApex Movement wiki: https://t.co/wsJat8nATd\nPowered by @Kovaaks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 119,
+                "username": "Kovaaks"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mokeysniper.carrd.co",
+                "end": 63,
+                "expanded_url": "http://mokeysniper.carrd.co",
+                "start": 40,
+                "url": "https://t.co/O2LM4PBK7t"
+              },
+              {
+                "display_url": "apexmovement.tech/wiki",
+                "end": 107,
+                "expanded_url": "https://apexmovement.tech/wiki",
+                "start": 84,
+                "url": "https://t.co/wsJat8nATd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/Mokeysniper",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/Mokeysniper",
+                "start": 0,
+                "url": "https://t.co/0wG6R3UyXG"
+              }
+            ]
+          }
+        },
+        "id": "1119614329135955968",
+        "name": "Mokey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682122592289800194/TlmHUdlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57174,
+          "following_count": 811,
+          "like_count": 58441,
+          "listed_count": 100,
+          "media_count": 2858,
+          "tweet_count": 8009
+        },
+        "url": "https://t.co/0wG6R3UyXG",
+        "username": "mokeysniper",
+        "verified": true
+      }
+    ]
+  }
+}

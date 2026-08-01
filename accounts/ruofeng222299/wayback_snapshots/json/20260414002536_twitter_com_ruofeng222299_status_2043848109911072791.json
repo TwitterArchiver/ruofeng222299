@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2043848109911072791",
+    "created_at": "2026-04-14T00:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T01:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043848109911072791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032033299980566528",
+          "start": 3,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043848109911072791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043745493268963440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rinii165892: 药物过量带来的幸福真的是你想要的吗 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2043848109911072791",
+        "created_at": "2026-04-14T00:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043848109911072791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032033299980566528",
+              "start": 3,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043848109911072791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043745493268963440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rinii165892: 药物过量带来的幸福真的是你想要的吗 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2043745493268963440",
+        "created_at": "2026-04-13T17:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043745493268963440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043745493268963440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2293,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "药物过量带来的幸福真的是你想要的吗 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2024.5.12hrt/177cm /od/自残有点上瘾/喜欢帅哥/吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️",
+        "pinned_tweet_id": "2040300521500926166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 250,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 791
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "已放弃对抗精神疾病【寻回推u】🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n生活在互联网！看成分互fo喵!/我是低龄糖逼大傻福，实在抱歉！\n超级严重失眠 -12现役初中生\n^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀小号@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/1rBZJU4xmt"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 707,
+          "like_count": 4414,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 2472
+        },
+        "url": "https://t.co/1rBZJU4xmt",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

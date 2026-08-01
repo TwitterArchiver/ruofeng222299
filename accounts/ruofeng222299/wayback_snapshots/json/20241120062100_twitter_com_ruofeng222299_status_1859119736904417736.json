@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "1842940288647716962",
+    "created_at": "2024-11-20T06:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T07:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859119736904417736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751465712302825472",
+          "start": 0,
+          "username": "Sol633578240078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859119736904417736",
+    "in_reply_to_user_id": "1751465712302825472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842940288647716962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sol633578240078 现在还真的有这么好的人啊…羡慕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "1842940288647716962",
+        "created_at": "2024-11-20T06:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T07:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859119736904417736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751465712302825472",
+              "start": 0,
+              "username": "Sol633578240078"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859119736904417736",
+        "in_reply_to_user_id": "1751465712302825472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842940288647716962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sol633578240078 现在还真的有这么好的人啊…羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751465712302825472",
+        "conversation_id": "1842940288647716962",
+        "created_at": "2024-10-06T14:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T15:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842940288647716962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842940288647716962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4532,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找个可爱的小药娘对象，本人23岁，目前在安徽合肥工作，有稳定住所，有台车子，没事可以一起出去自驾游，家里有台2w左右的电脑，之前游戏直播买的，基本上啥游戏都可以玩，然后最近打算养只猫，后面也可以撸猫，想找个20岁左右的可爱的小药娘对象，要圈子干净点的，不乱，可以一起生活的，可以养你宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "2009.4.16出生，已经接触mtf很长时间，目前hrt忘了（，做跨儿具体原因还是因为我长达1年半的抑郁症导致的吧，希望有缘人提供国内hrt资源...",
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792766072745267200/plkJKVfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 9,
+          "listed_count": 0,
+          "tweet_count": 27
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T04:42:46.000Z",
+        "description": "",
+        "id": "1751465712302825472",
+        "name": "Sol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751466041686052864/diPB4b-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 33,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 0
+        },
+        "username": "Sol633578240078",
+        "verified": false
+      }
+    ]
+  }
+}

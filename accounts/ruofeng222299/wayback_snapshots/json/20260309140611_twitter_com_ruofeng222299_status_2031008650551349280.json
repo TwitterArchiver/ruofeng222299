@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031008639306371073"
+      ]
+    },
+    "author_id": "1792759159525654528",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2031008650551349280",
+    "created_at": "2026-03-09T14:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T15:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031008650551349280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xglduDYn7I",
+          "end": 60,
+          "expanded_url": "https://x.com/ruofeng222299/status/2031008650551349280/photo/1",
+          "media_key": "3_2031008639306371073",
+          "start": 37,
+          "url": "https://t.co/xglduDYn7I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031008650551349280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的错\n本来想刻字的结果第一下太激动了…\n直接干了将近4mm\n吓我一跳… https://t.co/xglduDYn7I"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2031008650551349280].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2031008650551349280",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2031008650551349280"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2031008639306371073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-XmMGbEAE0_Ig.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "2009.4.16出生/2023.5.12hrt /喜欢帅哥喜欢弹吉他/视频调色/剪辑/blender建模/17岁/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/目前在视奸某位陷入迷途的姐姐@YunoQiu56649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 163,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 201
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2036399794135114174",
+    "created_at": "2026-03-24T15:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036459214219124946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904872455229104129",
+          "start": 0,
+          "username": "TogawaMedical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036459214219124946",
+    "in_reply_to_user_id": "1904872455229104129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036399794135114174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TogawaMedical 加油喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036399787126431745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEK-0SxaIAEzgMq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2036399794135114174",
+        "created_at": "2026-03-24T15:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036459214219124946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904872455229104129",
+              "start": 0,
+              "username": "TogawaMedical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036459214219124946",
+        "in_reply_to_user_id": "1904872455229104129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036399794135114174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TogawaMedical 加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036399787126431745"
+          ]
+        },
+        "author_id": "1904872455229104129",
+        "conversation_id": "2036399794135114174",
+        "created_at": "2026-03-24T11:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036399794135114174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ji1bIDSmxE",
+              "end": 33,
+              "expanded_url": "https://x.com/TogawaMedical/status/2036399794135114174/photo/1",
+              "media_key": "3_2036399787126431745",
+              "start": 10,
+              "url": "https://t.co/Ji1bIDSmxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036399794135114174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "客服小祥练习吉他中 https://t.co/Ji1bIDSmxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "09.4.16出生/2023.5.12hrt/177cm /od？/自残有点上瘾/喜欢帅哥/喜欢弹吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/暗恋对象@YunoQiu56649/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 227,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 515
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:26:20.000Z",
+        "description": "ご機嫌よう，承蒙厚爱。🌸 本处现提供 Androcur® (色普龙) 零售及自制雌二醇凝胶；提供少量免费心理咨询服务。愿能为您带来些许微薄的帮助。客服邮箱：Support@TogawaMedical.top，具体商品、帮助、联系方式及更多文档见下方链接。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "doc.togawamedical.top",
+                "end": 23,
+                "expanded_url": "https://doc.togawamedical.top/",
+                "start": 0,
+                "url": "https://t.co/AoJeeIu4v2"
+              }
+            ]
+          }
+        },
+        "id": "1904872455229104129",
+        "location": "丰川家",
+        "name": "丰川药业_Official🍥",
+        "pinned_tweet_id": "2034261917431140376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027631535369965568/UJFyIgC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 189,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/AoJeeIu4v2",
+        "username": "TogawaMedical",
+        "verified": true
+      }
+    ]
+  }
+}

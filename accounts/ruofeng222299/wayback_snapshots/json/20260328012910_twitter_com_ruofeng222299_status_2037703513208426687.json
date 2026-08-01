@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2037703513208426687",
+    "created_at": "2026-03-28T01:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T02:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037703513208426687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1314388633869152259",
+          "start": 3,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037703513208426687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037676594953965596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Swathy17531761: 假如真正想死，请选择安静离开，请不要与任何人说，以及群聊发布这些信息，这些会给自己带来麻烦，24号我割腕流了很多血。结命硬还活着，我和网友说了这些。很多人报了案晶哥来了没找到我，三点我下了山，那时没死还活着，直到八点我想休息，找了一个酒店…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2037703513208426687",
+        "created_at": "2026-03-28T01:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037703513208426687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1314388633869152259",
+              "start": 3,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037703513208426687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037676594953965596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Swathy17531761: 假如真正想死，请选择安静离开，请不要与任何人说，以及群聊发布这些信息，这些会给自己带来麻烦，24号我割腕流了很多血。结命硬还活着，我和网友说了这些。很多人报了案晶哥来了没找到我，三点我下了山，那时没死还活着，直到八点我想休息，找了一个酒店…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314388633869152259",
+        "conversation_id": "2037676594953965596",
+        "created_at": "2026-03-27T23:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037676594953965596"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037676594953965596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 325,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "假如真正想死，请选择安静离开，请不要与任何人说，以及群聊发布这些信息，这些会给自己带来麻烦，24号我割腕流了很多血。结命硬还活着，我和网友说了这些。很多人报了案晶哥来了没找到我，三点我下了山，那时没死还活着，直到八点我想休息，找了一个酒店住，还没睡就强行破门而入带我去局子里唉。#mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2023.5.12hrt/177cm /od？/自残有点上瘾/喜欢帅哥/喜欢弹吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/暗恋对象@YunoQiu56649/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 235,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 587
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是小汐~ !可以叫咱小汐或者汐宝~?身高\n165cm/目前体重125斤左右😮‍💨~嘴巴很笨不会说话/可加好友门槛备注打赏联系最低10加联系方式/可私信/暂无对象/随缘/可线下绿玩/半绿/逛街等什么的",
+        "id": "1314388633869152259",
+        "name": "小汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2032422857943470217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 80,
+          "like_count": 13,
+          "listed_count": 5,
+          "media_count": 63,
+          "tweet_count": 361
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2057488831620997325",
+    "created_at": "2026-05-23T15:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058205432955740647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012958305308565505",
+          "start": 0,
+          "username": "raindreamya"
+        },
+        {
+          "end": 28,
+          "id": "2031097520840167424",
+          "start": 13,
+          "username": "Ciallo_114_514"
+        },
+        {
+          "end": 40,
+          "id": "1900108524304076800",
+          "start": 29,
+          "username": "qi_bu64350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058205432955740647",
+    "in_reply_to_user_id": "2012958305308565505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057488831620997325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raindreamya @Ciallo_114_514 @qi_bu64350 傻孩子欸，真的值得么"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Ciallo_114_514].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Ciallo_114_514",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Ciallo_114_514"
+    },
+    {
+      "detail": "User has been suspended: [qi_bu64350].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "qi_bu64350",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "qi_bu64350"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057488814332088320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2rLPOakAARrIK.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2057488831620997325",
+        "created_at": "2026-05-23T15:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058205432955740647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012958305308565505",
+              "start": 0,
+              "username": "raindreamya"
+            },
+            {
+              "end": 28,
+              "id": "2031097520840167424",
+              "start": 13,
+              "username": "Ciallo_114_514"
+            },
+            {
+              "end": 40,
+              "id": "1900108524304076800",
+              "start": 29,
+              "username": "qi_bu64350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058205432955740647",
+        "in_reply_to_user_id": "2012958305308565505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057488831620997325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raindreamya @Ciallo_114_514 @qi_bu64350 傻孩子欸，真的值得么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057488814332088320"
+          ]
+        },
+        "author_id": "2012958305308565505",
+        "conversation_id": "2057488831620997325",
+        "created_at": "2026-05-21T15:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057488831620997325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "2031097520840167424",
+              "start": 33,
+              "username": "Ciallo_114_514"
+            },
+            {
+              "end": 60,
+              "id": "1900108524304076800",
+              "start": 49,
+              "username": "qi_bu64350"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnNGM1QTUm",
+              "end": 84,
+              "expanded_url": "https://x.com/raindreamya/status/2057488831620997325/photo/1",
+              "media_key": "3_2057488814332088320",
+              "start": 61,
+              "url": "https://t.co/xnNGM1QTUm"
+            },
+            {
+              "display_url": "x.com/ciallo_114_514…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/ciallo_114_514/status/2057448825481257281",
+              "start": 85,
+              "url": "https://t.co/0KFICwGYrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057488831620997325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1307,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057448825481257281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被晶格询问了关于小柒的事情还有吃了什么怎么认识的（🥹，还有泥不要死@Ciallo_114_514 @qi_bu64350 https://t.co/xnNGM1QTUm https://t.co/0KFICwGYrU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "09.4.16出生/2024.5.12hrt/177cm /od/自残有点上瘾/喜欢帅哥/吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/天使姐姐@xiow221325/拯救者@kardenlar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "xiow221325"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "kardenlar"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️",
+        "pinned_tweet_id": "2040300521500926166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 261,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 880
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T18:41:01.000Z",
+        "description": "🏳️‍⚧️🍥暂时是只刚出炉的mtf喵~🍥🏳️‍⚧️\n🏳️‍⚧️生产日期10.3.5 | 无证含糖 | 🍬HRT 26.2.13 | 💥 26.3.2 炸柜 |「常驻江浙沪」 |182cm 62kg | 这里可以通过tg联系窝喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rainsnowdream",
+                "end": 23,
+                "expanded_url": "http://t.me/rainsnowdream",
+                "start": 0,
+                "url": "https://t.co/gbPraZolk2"
+              }
+            ]
+          }
+        },
+        "id": "2012958305308565505",
+        "name": "雨梦🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043635114064986112/vB72dk36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 137,
+          "like_count": 1177,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/gbPraZolk2",
+        "username": "raindreamya",
+        "verified": false
+      }
+    ]
+  }
+}

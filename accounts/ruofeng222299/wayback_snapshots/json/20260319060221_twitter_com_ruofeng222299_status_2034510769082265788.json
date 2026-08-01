@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034510492815986688"
+      ]
+    },
+    "author_id": "1792759159525654528",
+    "conversation_id": "2034510769082265788",
+    "created_at": "2026-03-19T06:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T07:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034510769082265788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ix9U88HD7l",
+          "end": 31,
+          "expanded_url": "https://x.com/ruofeng222299/status/2034510769082265788/video/1",
+          "media_key": "13_2034510492815986688",
+          "start": 8,
+          "url": "https://t.co/ix9U88HD7l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034510769082265788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "lemon翻弹 https://t.co/ix9U88HD7l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 88170,
+        "height": 1080,
+        "media_key": "13_2034510492815986688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034510492815986688/img/z5EMoEhzCvagnKVj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034510492815986688/vid/avc1/480x270/cuvAAnEsmqDqHiKE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034510492815986688/vid/avc1/640x360/Szq3IwheZraJqTmM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034510492815986688/vid/avc1/1280x720/llkVLmqness80stF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034510492815986688/pl/aVlwM8bq5w-sfqkl.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034510492815986688"
+          ]
+        },
+        "author_id": "1792759159525654528",
+        "conversation_id": "2034510769082265788",
+        "created_at": "2026-03-19T06:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034510769082265788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ix9U88HD7l",
+              "end": 31,
+              "expanded_url": "https://x.com/ruofeng222299/status/2034510769082265788/video/1",
+              "media_key": "13_2034510492815986688",
+              "start": 8,
+              "url": "https://t.co/ix9U88HD7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034510769082265788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "lemon翻弹 https://t.co/ix9U88HD7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2023.5.12hrt/177cm /不od/自残有点上瘾/喜欢帅哥/喜欢弹吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/暗恋对象@YunoQiu56649（信号中断）/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 217,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 416
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      }
+    ]
+  }
+}

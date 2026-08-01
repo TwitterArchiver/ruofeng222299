@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2033568521838571768",
+    "created_at": "2026-03-17T05:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T06:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033770677795491981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1672461374180450305",
+          "start": 0,
+          "username": "6mhzph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033770677795491981",
+    "in_reply_to_user_id": "1672461374180450305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033767591404310905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6mhzph 🤔专业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2033568521838571768",
+        "created_at": "2026-03-17T05:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033770677795491981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1672461374180450305",
+              "start": 0,
+              "username": "6mhzph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033770677795491981",
+        "in_reply_to_user_id": "1672461374180450305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033767591404310905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6mhzph 🤔专业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672461374180450305",
+        "conversation_id": "2033568521838571768",
+        "created_at": "2026-03-17T04:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033767591404310905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1792759159525654528",
+              "start": 0,
+              "username": "ruofeng222299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033767591404310905",
+        "in_reply_to_user_id": "1792759159525654528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033568521838571768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruofeng222299 疼痛会上瘾的本质不是喜欢痛，而是喜欢疼痛结束后的那种强烈补偿性快感（内啡肽+多巴胺双倍暴击），而这种快感比普通快乐强烈太多、来得太突然，大脑就记住了这条“捷径”，于是开始渴求重复这条路径——哪怕代价是更大的痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2023.5.12hrt/177cm /不od/自残有点上瘾/喜欢帅哥/喜欢弹吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/暗恋对象@YunoQiu56649（信号中断）/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 211,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 384
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T04:27:28.000Z",
+        "description": "想成为大家的情绪垃圾桶🗑️                                                           07小孩 / 🇮 🇳 🇫 🇵 / 互fo / #树洞 / 精神病人 / 心理敏感 / 大一休学 / 永远的艾拉厨/最爱的@siuuuuneo｜下面有好玩的喵↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 95,
+                "tag": "树洞"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 142,
+                "start": 132,
+                "username": "siuuuuneo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aidn.jp/mikutap/",
+                "end": 23,
+                "expanded_url": "https://aidn.jp/mikutap/",
+                "start": 0,
+                "url": "https://t.co/U7b6ZO9vMm"
+              }
+            ]
+          }
+        },
+        "id": "1672461374180450305",
+        "location": "距离520km",
+        "name": "inia🌠",
+        "pinned_tweet_id": "1998113705805193226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005808317197922304/KkK6l6bM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 238,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/U7b6ZO9vMm",
+        "username": "6mhzph",
+        "verified": true
+      }
+    ]
+  }
+}

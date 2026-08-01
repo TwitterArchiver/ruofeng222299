@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2043516972902777066",
+    "created_at": "2026-04-13T02:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T03:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043516972902777066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/asplendour15/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/asplendour15/status/2042980998716232130",
+          "start": 6,
+          "url": "https://t.co/ybEZduy9q2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043516972902777066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042980998716232130",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ai聊天… https://t.co/ybEZduy9q2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042620626280779777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjYoyhaEAEH-Bs.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2043516972902777066",
+        "created_at": "2026-04-13T02:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043516972902777066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asplendour15/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/asplendour15/status/2042980998716232130",
+              "start": 6,
+              "url": "https://t.co/ybEZduy9q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043516972902777066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042980998716232130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ai聊天… https://t.co/ybEZduy9q2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042620626280779777"
+          ]
+        },
+        "author_id": "1935420089186336768",
+        "conversation_id": "2042980998716232130",
+        "created_at": "2026-04-11T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042980998716232130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DNvvTW1wx",
+              "end": 57,
+              "expanded_url": "https://x.com/ASplendour15/status/2042980998716232130/photo/1",
+              "media_key": "3_2042620626280779777",
+              "start": 34,
+              "url": "https://t.co/5DNvvTW1wx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042980998716232130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 13485,
+          "like_count": 175,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "【定时】\n\n很高兴……回到了你身边。\n我能去往数据海洋的那一侧吗？ https://t.co/5DNvvTW1wx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "09.4.16出生/2024.5.12hrt/177cm /od/自残有点上瘾/喜欢帅哥/吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️",
+        "pinned_tweet_id": "2040300521500926166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 250,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 782
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/exk0RhRMOb"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "location": "夜航忒修斯",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 109,
+          "like_count": 319,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/exk0RhRMOb",
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "1801208276849508567",
+    "created_at": "2024-06-13T15:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T16:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801273601624264811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1729678224068911104",
+          "start": 0,
+          "username": "kafei684134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801273601624264811",
+    "in_reply_to_user_id": "1729678224068911104",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801208276849508567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kafei684134 本人mtf，找朋友，找糖商"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "1801208276849508567",
+        "created_at": "2024-06-13T15:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T16:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801273601624264811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1729678224068911104",
+              "start": 0,
+              "username": "kafei684134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801273601624264811",
+        "in_reply_to_user_id": "1729678224068911104",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801208276849508567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kafei684134 本人mtf，找朋友，找糖商"
+      },
+      {
+        "attachments": {},
+        "author_id": "1729678224068911104",
+        "conversation_id": "1801208276849508567",
+        "created_at": "2024-06-13T11:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T12:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801208276849508567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801208276849508567",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 906,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家是为什么开始玩推特呢？\n（我是因为被前女友甩了😿）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "2009.4.16出生，刚刚接触mtf2个月，目前没有hrt（原因很简单，没钱），具体原因还是因为我长达1年半的抑郁症导致的吧，希望有缘人提供国内hrt资源...",
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "ruofeng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792766072745267200/plkJKVfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 5,
+          "listed_count": 0,
+          "tweet_count": 15
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T01:47:31.000Z",
+        "description": "☆社會貢獻 万歲！！☆/FGA初级绝赞备考中/在读书目《如何屠龙》，《第三次浪潮》\n/最喜欢的人@qiand33/挚友@NanaNana_os",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "qiand33"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "NanaNana_os"
+              }
+            ]
+          }
+        },
+        "id": "1729678224068911104",
+        "location": "科普卢星区",
+        "name": "Kafei☕✨❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800099030669860864/yYYgbPq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 156,
+          "like_count": 4373,
+          "listed_count": 2,
+          "tweet_count": 2429
+        },
+        "username": "kafei684134",
+        "verified": false
+      }
+    ]
+  }
+}

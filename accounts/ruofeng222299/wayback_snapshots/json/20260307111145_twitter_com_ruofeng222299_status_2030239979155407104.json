@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030239904719048704"
+      ]
+    },
+    "author_id": "1792759159525654528",
+    "conversation_id": "2030239979155407104",
+    "created_at": "2026-03-07T11:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030239979155407104"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "剪辑"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2q31SwdkmM",
+          "end": 43,
+          "expanded_url": "https://x.com/ruofeng222299/status/2030239979155407104/video/1",
+          "media_key": "13_2030239904719048704",
+          "start": 20,
+          "url": "https://t.co/2q31SwdkmM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030239979155407104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用喜鹊谋杀案的方式打开我的学校\n#剪辑 https://t.co/2q31SwdkmM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9600,
+        "height": 720,
+        "media_key": "13_2030239904719048704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030239904719048704/img/Q2tFSNhCbTjzmiUg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030239904719048704/vid/avc1/480x270/Ax48tEODZpiLJVb_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030239904719048704/vid/avc1/640x360/b4kBbP602xehwC7c.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030239904719048704/vid/avc1/1280x720/_V1Zwt7NTmtOi2v5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030239904719048704/pl/MFweMeNj-53iplj7.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030239904719048704"
+          ]
+        },
+        "author_id": "1792759159525654528",
+        "conversation_id": "2030239979155407104",
+        "created_at": "2026-03-07T11:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030239979155407104"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "剪辑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2q31SwdkmM",
+              "end": 43,
+              "expanded_url": "https://x.com/ruofeng222299/status/2030239979155407104/video/1",
+              "media_key": "13_2030239904719048704",
+              "start": 20,
+              "url": "https://t.co/2q31SwdkmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030239979155407104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用喜鹊谋杀案的方式打开我的学校\n#剪辑 https://t.co/2q31SwdkmM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "2009.4.16出生/2023.5.12hrt /喜欢帅哥喜欢弹吉他/视频调色/剪辑/blender建模/17岁/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加",
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 139,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 165
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      }
+    ]
+  }
+}

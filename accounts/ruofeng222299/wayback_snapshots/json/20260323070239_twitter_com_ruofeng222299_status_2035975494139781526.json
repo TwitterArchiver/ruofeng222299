@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2035975494139781526",
+    "created_at": "2026-03-23T07:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035975494139781526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035975494139781526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035919764674191837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 觉得自己压力大的都来看看这位男生，昨天，他的室友穿成小蛋糕，在男生宿舍楼下，当着同学和老师的面向自己表白，一开始男生还好奇是哪位女生，凑近一看吓得连连后退，当他意识到不对劲的时候，已经为时已晚，最后被舍友一个公主抱就给抱走了。… https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 102005,
+        "height": 1920,
+        "media_key": "13_2035918263503466496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035918263503466496/img/JSsGO2RamL41I3PN.jpg",
+        "public_metrics": {
+          "view_count": 166864
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035918263503466496/pl/2I5x6PLXly3yHtjm.m3u8?v=9f9"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035918263503466496/vid/avc1/1080x1920/SOJAi55vEIABnION.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035918263503466496/vid/avc1/720x1280/eHer08XvlRBsnXTj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035918263503466496/vid/avc1/480x852/yMJ81Go7lH5fI4_o.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035918263503466496/vid/avc1/320x568/3ImUJIuohWvySZsk.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2035975494139781526",
+        "created_at": "2026-03-23T07:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035975494139781526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035975494139781526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035919764674191837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 觉得自己压力大的都来看看这位男生，昨天，他的室友穿成小蛋糕，在男生宿舍楼下，当着同学和老师的面向自己表白，一开始男生还好奇是哪位女生，凑近一看吓得连连后退，当他意识到不对劲的时候，已经为时已晚，最后被舍友一个公主抱就给抱走了。… https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035918263503466496"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2035919764674191837",
+        "created_at": "2026-03-23T03:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035919764674191837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMNNa5PYZu",
+              "end": 137,
+              "expanded_url": "https://x.com/igeekbb/status/2035919764674191837/video/1",
+              "media_key": "13_2035918263503466496",
+              "start": 114,
+              "url": "https://t.co/WMNNa5PYZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035919764674191837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "觉得自己压力大的都来看看这位男生，昨天，他的室友穿成小蛋糕，在男生宿舍楼下，当着同学和老师的面向自己表白，一开始男生还好奇是哪位女生，凑近一看吓得连连后退，当他意识到不对劲的时候，已经为时已晚，最后被舍友一个公主抱就给抱走了。\n\n武汉光谷职业学院知情人表示：女装大佬是介绍给黑衣男自己“表妹”，实际“表妹”账号是自己。聊上头就表白了……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 359158,
+          "like_count": 889,
+          "quote_count": 11,
+          "reply_count": 143,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "觉得自己压力大的都来看看这位男生，昨天，他的室友穿成小蛋糕，在男生宿舍楼下，当着同学和老师的面向自己表白，一开始男生还好奇是哪位女生，凑近一看吓得连连后退，当他意识到不对劲的时候，已经为时已晚，最后被舍友一个公主抱就给抱走了。 https://t.co/WMNNa5PYZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2023.5.12hrt/177cm /不od/自残有点上瘾/喜欢帅哥/喜欢弹吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/暗恋对象@YunoQiu56649/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 224,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 472
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68647,
+          "following_count": 1,
+          "like_count": 12696,
+          "listed_count": 294,
+          "media_count": 6737,
+          "tweet_count": 10633
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

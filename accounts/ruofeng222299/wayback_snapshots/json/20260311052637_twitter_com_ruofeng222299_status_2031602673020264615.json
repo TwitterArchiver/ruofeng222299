@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2031273065263607817",
+    "created_at": "2026-03-11T05:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T06:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031602673020264615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2024783130906038272",
+          "start": 0,
+          "username": "ccunnj"
+        },
+        {
+          "end": 18,
+          "id": "1402939678039314432",
+          "start": 8,
+          "username": "shisan033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031602673020264615",
+    "in_reply_to_user_id": "2024783130906038272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031383518383845611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccunnj @shisan033 塌房，字面意思是居住的房子坍塌了\n一般指的是你喜欢的偶像，\n因为曝光出丑文而导致她在你心目中的形象崩塌\n所以叫塌方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2031273065263607817",
+        "created_at": "2026-03-11T05:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031602673020264615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2024783130906038272",
+              "start": 0,
+              "username": "ccunnj"
+            },
+            {
+              "end": 18,
+              "id": "1402939678039314432",
+              "start": 8,
+              "username": "shisan033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031602673020264615",
+        "in_reply_to_user_id": "2024783130906038272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031383518383845611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccunnj @shisan033 塌房，字面意思是居住的房子坍塌了\n一般指的是你喜欢的偶像，\n因为曝光出丑文而导致她在你心目中的形象崩塌\n所以叫塌方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024783130906038272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2031273065263607817",
+        "created_at": "2026-03-10T14:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031383518383845611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1402939678039314432",
+              "start": 0,
+              "username": "shisan033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031383518383845611",
+        "in_reply_to_user_id": "1402939678039314432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2328,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031273065263607817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shisan033 中国語の「塌房」は、自分の好きなアイドルが突然、重大な悪いニュースを暴露され、設定が崩れてイメージが壊れような状態を指します。 「推しが炎上した」では、少し軽すぎます。\nでもよく考えたら、日本語ではやっぱり「推しが炎上した」としか表現できないですね。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2023.5.12hrt /不od/自残有点上瘾/喜欢帅哥/喜欢弹吉他/视频调色/剪辑/blender建模/17岁/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/目前在视奸某位陷入迷途的姐姐@YunoQiu56649（其实是暗恋）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 113,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 195,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 255
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T09:48:24.000Z",
+        "description": "关于爱的定义模糊🪽",
+        "id": "2024783130906038272",
+        "location": "1029",
+        "name": "ccunnj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030666332363214848/PCE8mYSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "ccunnj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-10T10:44:35.000Z",
+        "description": "学生/起業/海外生活経験あり（家族帯同＆留学）/ミックス🐱＆シーズー🐶",
+        "id": "1402939678039314432",
+        "name": "꧁༺༒し༒い༒༻꧂",
+        "pinned_tweet_id": "2025326213745791113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967174029783289856/0q0Yvh0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234,
+          "following_count": 500,
+          "like_count": 199872,
+          "listed_count": 17,
+          "media_count": 4055,
+          "tweet_count": 43495
+        },
+        "username": "shisan033",
+        "verified": false
+      }
+    ]
+  }
+}

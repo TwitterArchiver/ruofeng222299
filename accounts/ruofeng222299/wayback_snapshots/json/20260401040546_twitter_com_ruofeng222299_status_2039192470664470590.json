@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039191399145598976"
+      ],
+      "media_source_tweet_id": [
+        "2039191412701618493"
+      ]
+    },
+    "author_id": "1792759159525654528",
+    "conversation_id": "2039192470664470590",
+    "created_at": "2026-04-01T04:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039192470664470590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2031097520840167424",
+          "start": 3,
+          "username": "Ciallo_114_514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z82sin7Szg",
+          "end": 79,
+          "expanded_url": "https://x.com/Ciallo_114_514/status/2039191412701618493/photo/1",
+          "media_key": "3_2039191399145598976",
+          "start": 56,
+          "url": "https://t.co/Z82sin7Szg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039192470664470590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039191412701618493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ciallo_114_514: 求助…我父母不管我了不给我付医药费…能不能借点…不然我出不了院了…🥹🥹 https://t.co/Z82sin7Szg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1071,
+        "media_key": "3_2039191399145598976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEypxf8a8AAvc0N.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039191399145598976"
+          ],
+          "media_source_tweet_id": [
+            "2039191412701618493"
+          ]
+        },
+        "author_id": "1792759159525654528",
+        "conversation_id": "2039192470664470590",
+        "created_at": "2026-04-01T04:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039192470664470590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2031097520840167424",
+              "start": 3,
+              "username": "Ciallo_114_514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z82sin7Szg",
+              "end": 79,
+              "expanded_url": "https://x.com/Ciallo_114_514/status/2039191412701618493/photo/1",
+              "media_key": "3_2039191399145598976",
+              "start": 56,
+              "url": "https://t.co/Z82sin7Szg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039192470664470590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039191412701618493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ciallo_114_514: 求助…我父母不管我了不给我付医药费…能不能借点…不然我出不了院了…🥹🥹 https://t.co/Z82sin7Szg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039191399145598976"
+          ]
+        },
+        "author_id": "2031097520840167424",
+        "conversation_id": "2039191412701618493",
+        "created_at": "2026-04-01T04:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039191412701618493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z82sin7Szg",
+              "end": 59,
+              "expanded_url": "https://x.com/Ciallo_114_514/status/2039191412701618493/photo/1",
+              "media_key": "3_2039191399145598976",
+              "start": 36,
+              "url": "https://t.co/Z82sin7Szg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039191412701618493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求助…我父母不管我了不给我付医药费…能不能借点…不然我出不了院了…🥹🥹 https://t.co/Z82sin7Szg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2023.5.12hrt/177cm /od？/自残有点上瘾/喜欢帅哥/喜欢弹吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/暗恋对象@YunoQiu56649/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2038571014305796231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 236,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 636
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前@YunoQiu56649\n生日070402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜中焦重抑｜全部立场中立｜碎碎念｜我好想死我好想死我好想死我好想死我好想死我好想死我好想死我好想死我好想死我好想死我好想死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵🍥🏳️‍⚧️（互fo寻回ing）",
+        "pinned_tweet_id": "2038623958787088614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 387,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1110
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

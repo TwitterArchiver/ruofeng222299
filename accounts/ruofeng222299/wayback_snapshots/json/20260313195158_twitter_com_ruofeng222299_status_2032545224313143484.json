@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2032545224313143484",
+    "created_at": "2026-03-13T19:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T20:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032545224313143484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814174084617666560",
+          "start": 3,
+          "username": "MianXue525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032545224313143484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032439729279603152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MianXue525: ❄️400fo感谢一路陪伴❄️\n粉丝福利此帖评论参与抽奖！\n一等奖两盒普瑞巴林（折现39¥）\n二等奖一份dq暴风雪（折现30¥）\n三等奖两盒愈美片（折现20¥）\n        ❄️爱来自不眠雪❄️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2032545224313143484",
+        "created_at": "2026-03-13T19:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T20:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032545224313143484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814174084617666560",
+              "start": 3,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032545224313143484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032439729279603152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MianXue525: ❄️400fo感谢一路陪伴❄️\n粉丝福利此帖评论参与抽奖！\n一等奖两盒普瑞巴林（折现39¥）\n二等奖一份dq暴风雪（折现30¥）\n三等奖两盒愈美片（折现20¥）\n        ❄️爱来自不眠雪❄️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032439729279603152",
+        "created_at": "2026-03-13T12:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032439729279603152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032439729279603152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3646,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 62,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "❄️400fo感谢一路陪伴❄️\n粉丝福利此帖评论参与抽奖！\n一等奖两盒普瑞巴林（折现39¥）\n二等奖一份dq暴风雪（折现30¥）\n三等奖两盒愈美片（折现20¥）\n        ❄️爱来自不眠雪❄️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2023.5.12hrt /不od/自残有点上瘾/喜欢帅哥/喜欢弹吉他/视频调色/剪辑/blender建模/17岁/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/姐姐@YunoQiu56649（其实是暗恋）/天使",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 101,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 203,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 323
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2032439729279603152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 238,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 233
+        },
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

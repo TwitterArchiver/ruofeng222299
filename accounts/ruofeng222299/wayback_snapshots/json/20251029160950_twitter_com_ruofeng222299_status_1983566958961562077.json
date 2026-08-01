@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "1983174918163587266",
+    "created_at": "2025-10-29T16:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983566958961562077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816735009409273856",
+          "start": 0,
+          "username": "MuYou6652"
+        },
+        {
+          "end": 27,
+          "id": "1786397664722268160",
+          "start": 11,
+          "username": "proxynova712sec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983566958961562077",
+    "in_reply_to_user_id": "1816735009409273856",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983343060105998778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuYou6652 @proxynova712sec ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "1983174918163587266",
+        "created_at": "2025-10-29T16:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983566958961562077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816735009409273856",
+              "start": 0,
+              "username": "MuYou6652"
+            },
+            {
+              "end": 27,
+              "id": "1786397664722268160",
+              "start": 11,
+              "username": "proxynova712sec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983566958961562077",
+        "in_reply_to_user_id": "1816735009409273856",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983343060105998778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuYou6652 @proxynova712sec ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816735009409273856",
+        "conversation_id": "1983174918163587266",
+        "created_at": "2025-10-29T01:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T02:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983343060105998778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786397664722268160",
+              "start": 0,
+              "username": "proxynova712sec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983343060105998778",
+        "in_reply_to_user_id": "1786397664722268160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6627,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983174918163587266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@proxynova712sec 学校里有无障碍卫生间吗，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "2009.4.16出生，已经接触mtf很长时间，目前hrt忘了（，做跨儿具体原因还是因为我长达1年半的抑郁症导致的吧，希望有缘人提供国内hrt资源...",
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792766072745267200/plkJKVfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 34,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T07:20:15.000Z",
+        "description": "",
+        "id": "1816735009409273856",
+        "name": "慕容有乃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816735269850435584/I_W31oVb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 904,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 134
+        },
+        "username": "MuYou6652",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T14:09:34.000Z",
+        "description": "she/her/2009.3.22出厂/纯情女高（不是）/mtf/抑郁/2023.7.12hrt持证含糖😋/一号机 @proxynova712/互fo\n哈气ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "proxynova712"
+              }
+            ]
+          }
+        },
+        "id": "1786397664722268160",
+        "location": "深圳",
+        "name": "汐诺",
+        "pinned_tweet_id": "1941864697042538676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951570257451073536/MQ063s1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5994,
+          "following_count": 756,
+          "like_count": 14518,
+          "listed_count": 11,
+          "media_count": 314,
+          "tweet_count": 1469
+        },
+        "username": "proxynova712sec",
+        "verified": false
+      }
+    ]
+  }
+}

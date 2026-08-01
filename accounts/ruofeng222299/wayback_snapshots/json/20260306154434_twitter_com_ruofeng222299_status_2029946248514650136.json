@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2029946248514650136",
+    "created_at": "2026-03-06T15:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T16:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029946248514650136"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029946248514650136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "炸柜了，我快递寄一直是给给心理老师\n结果，她这次拆开了，一个电话打给我妈\n刚出学校，得到这消息\n在路上脑袋一片空白\nhrt两年了啥事没有\n炸的彻彻底底，彻彻底底！😭😭😭\n我该怎么办啊，我还不想死…\n我不想吵架，我不想伤害别人，我…怎么办\n还能和之前一样每天抱有希望的活下去么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2029946248514650136",
+        "created_at": "2026-03-06T15:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029946248514650136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029946248514650136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炸柜了，我快递寄一直是给给心理老师\n结果，她这次拆开了，一个电话打给我妈\n刚出学校，得到这消息\n在路上脑袋一片空白\nhrt两年了啥事没有\n炸的彻彻底底，彻彻底底！😭😭😭\n我该怎么办啊，我还不想死…\n我不想吵架，我不想伤害别人，我…怎么办\n还能和之前一样每天抱有希望的活下去么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "2009.4.16出生/2023.5.12hrt /喜欢帅哥喜欢弹吉他/视频调色/剪辑/blender建模/17岁/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加",
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 132,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 149
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      }
+    ]
+  }
+}

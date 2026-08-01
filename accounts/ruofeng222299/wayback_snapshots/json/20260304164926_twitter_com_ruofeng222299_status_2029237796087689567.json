@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2028860094705021347",
+    "created_at": "2026-03-04T16:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T17:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029237796087689567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703345227279609856",
+          "start": 0,
+          "username": "Oracle49371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029237796087689567",
+    "in_reply_to_user_id": "1703345227279609856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028860094705021347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oracle49371 为什么是大喷菇🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2028860080989622272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCf1fopbUAAy8gL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2028860094705021347",
+        "created_at": "2026-03-04T16:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T17:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029237796087689567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703345227279609856",
+              "start": 0,
+              "username": "Oracle49371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029237796087689567",
+        "in_reply_to_user_id": "1703345227279609856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028860094705021347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oracle49371 为什么是大喷菇🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028860080989622272"
+          ]
+        },
+        "author_id": "1703345227279609856",
+        "conversation_id": "2028860094705021347",
+        "created_at": "2026-03-03T15:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028860094705021347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0XHTGSUbQ",
+              "end": 29,
+              "expanded_url": "https://x.com/Oracle49371/status/2028860094705021347/photo/1",
+              "media_key": "3_2028860080989622272",
+              "start": 6,
+              "url": "https://t.co/n0XHTGSUbQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028860094705021347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1195,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "19岁喵！ https://t.co/n0XHTGSUbQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "2009.4.16出生/2023.5.12hrt /喜欢帅哥喜欢弹吉他/视频调色/剪辑/blender建模/会一点点/17岁/不想成年/小蝴蝶🦋/",
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792766072745267200/plkJKVfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 76,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 112
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T09:49:40.000Z",
+        "description": "这个人很懒，但是还没有死。云南大学，hrt于2025/9/16，获得小证于2025/10/21",
+        "id": "1703345227279609856",
+        "name": "Oracle_F🍥",
+        "pinned_tweet_id": "1998221375111385365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006204727600766976/pykhBTjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 112,
+          "like_count": 911,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 631
+        },
+        "username": "Oracle49371",
+        "verified": false
+      }
+    ]
+  }
+}

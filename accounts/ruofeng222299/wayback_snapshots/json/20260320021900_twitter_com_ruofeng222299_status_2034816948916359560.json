@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2034609199561249097",
+    "created_at": "2026-03-20T02:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T03:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034816948916359560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768935696646238208",
+          "start": 0,
+          "username": "PsycheRabbiiOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034816948916359560",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034609199561249097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PsycheRabbiiOwO 或者试试大脑缺氧，虽然可能好这个比差很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2034609199561249097",
+        "created_at": "2026-03-20T02:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T03:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034816948916359560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034816948916359560",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034609199561249097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 或者试试大脑缺氧，虽然可能好这个比差很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2034609199561249097",
+        "created_at": "2026-03-19T12:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034609199561249097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034609199561249097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "濒死体验获得方法（试过就不想死了，个人经验，仅可参考）：\n\n1、准备雷生类的药（其他安眠药都可以，但这种效果最好，食欲素受体拮抗类＞苯二氮卓＞非苯二氮卓＞褪黑素＞其他，比如抗玉玉）\n2、试验抗失眠的标准剂量，并且服药至规律睡眠三到五天\n3、重点。熬夜到兴奋，先会感觉困，过了一个点就会兴奋。然后吞服标准量0.5到0.8倍剂量的安眠药\n4、困意来时硬撑，玩手机刷视频之类。直到胸口发闷难以呼吸\n5、闭眼，习惯耳塞眼罩的最好戴上，硬撑，脑子里想各种各样的事，但最好有逻辑。直到慢慢失去意识。\n\n然后就会体验到死亡的感觉了\n\n具体体验：\n先是胸口慢慢失去知觉，这时会很像濒死。大脑会以为你快死了，想强撑清醒，呼吸心跳会加快。\n\n之后呼吸开始不受控制地减慢，脖子以下失去知觉，意识慢慢减弱，强烈的求生欲和恐慌感会不受控制地出现，即使你知道是假的。突然肾上腺素冲上的感觉出现，然后呼吸心跳加快一会，之后又慢慢减弱。\n\n重复以上过程多次，身体折腾不动了，就只能绝望地失去所有知觉，看自己的意识变暗变黑，然后。。。。然后就睡着了。\n\n第二天早上会醒很早，并且兴奋一整天"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 32382,
+          "like_count": 164,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "濒死体验获得方法（试过就不想死了，个人经验，仅可参考）：\n\n1、准备雷生类的药（其他安眠药都可以，但这种效果最好，食欲素受体拮抗类＞苯二氮卓＞非苯二氮卓＞褪黑素＞其他，比如抗玉玉）\n2、试验抗失眠的标准剂量，并且服药至规律睡眠三到五天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2023.5.12hrt/177cm /不od/自残有点上瘾/喜欢帅哥/喜欢弹吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/暗恋对象@YunoQiu56649（信号中断）/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 216,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 431
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "长相普通别骂我/质量低因为当朋友圈/8964准备换备用机@rabbii_third了，暂时还不知道发些什么。。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "rabbii_third"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "床上8964",
+        "name": "凌月月（🍥•﹃•🍥）8964",
+        "pinned_tweet_id": "1984937377824157779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032672138176704512/fwd2tlZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 1080,
+          "like_count": 5642,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 1553
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

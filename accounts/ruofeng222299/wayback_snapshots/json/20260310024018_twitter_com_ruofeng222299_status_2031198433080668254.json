@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2031198433080668254",
+    "created_at": "2026-03-10T02:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T03:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031198433080668254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_camouchie/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/_camouchie/status/2031032448038162924",
+          "start": 22,
+          "url": "https://t.co/SIcRSbw2f6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031198433080668254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031032448038162924",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是什么玩意？\nRGB炫彩飞机杯我真不行了 https://t.co/SIcRSbw2f6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 153,
+        "media_key": "3_2031032356530970624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-tKtpaYAAmtMc.png",
+        "width": 177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2031198433080668254",
+        "created_at": "2026-03-10T02:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T03:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031198433080668254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_camouchie/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/_camouchie/status/2031032448038162924",
+              "start": 22,
+              "url": "https://t.co/SIcRSbw2f6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031198433080668254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031032448038162924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是什么玩意？\nRGB炫彩飞机杯我真不行了 https://t.co/SIcRSbw2f6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031032356530970624"
+          ]
+        },
+        "author_id": "1068815010829262850",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031025154587758734",
+        "created_at": "2026-03-09T15:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T16:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031032448038162924"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "RGB",
+              "probability": 0.5821,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1322204633465413634",
+              "start": 0,
+              "username": "HYPERMYSTx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kuj8V5RL4H",
+              "end": 104,
+              "expanded_url": "https://x.com/_camouchie/status/2031032448038162924/photo/1",
+              "media_key": "3_2031032356530970624",
+              "start": 81,
+              "url": "https://t.co/kuj8V5RL4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031032448038162924",
+        "in_reply_to_user_id": "1322204633465413634",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3146,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031025154587758734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYPERMYSTx that and it looks like a RGB fleshlight that's hardly on your screen https://t.co/kuj8V5RL4H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "09.4.16出生/2023.5.12hrt /不od/自残有点上瘾/喜欢帅哥/喜欢弹吉他/视频调色/剪辑/blender建模/17岁/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/目前在视奸某位陷入迷途的姐姐@YunoQiu56649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 113,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 175,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 210
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-01T10:32:11.000Z",
+        "description": "Streams, games, vibes | Aspiring Caster/Creator | ALGS Enthusiast | Day 1 Deadlock Loyalist  | https://t.co/fpwBhotID6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@cvmouchie",
+                "end": 118,
+                "expanded_url": "http://tiktok.com/@cvmouchie",
+                "start": 95,
+                "url": "https://t.co/fpwBhotID6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/camouchie",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/camouchie",
+                "start": 0,
+                "url": "https://t.co/zM8h0W4eVS"
+              }
+            ]
+          }
+        },
+        "id": "1068815010829262850",
+        "location": "AZ, USA",
+        "name": "Camouchie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962225752130424832/1eg6H45w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 530,
+          "like_count": 17931,
+          "listed_count": 1,
+          "media_count": 3972,
+          "tweet_count": 26800
+        },
+        "url": "https://t.co/zM8h0W4eVS",
+        "username": "_camouchie",
+        "verified": true
+      }
+    ]
+  }
+}

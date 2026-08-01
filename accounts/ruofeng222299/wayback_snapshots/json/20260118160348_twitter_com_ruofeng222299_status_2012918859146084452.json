@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2012862520441324006",
+    "created_at": "2026-01-18T16:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T17:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012918859146084452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1366338848205070336",
+          "start": 0,
+          "username": "Yuistax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012918859146084452",
+    "in_reply_to_user_id": "1366338848205070336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012862520441324006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuistax fnc这次发挥是真的好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53507,
+        "height": 720,
+        "media_key": "7_2012862389583056896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2012862389583056896/pu/img/5oLP71gJ1nqQmHdr.jpg",
+        "public_metrics": {
+          "view_count": 96
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012862389583056896/pu/vid/avc1/480x270/6Ddno-zfD08FCSAB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012862389583056896/pu/vid/avc1/640x360/vXC07RQUQ2a4sk3T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012862389583056896/pu/vid/avc1/1280x720/SEnT7MVmAbi90PAv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2012862389583056896/pu/pl/RLIa-prNDrzmZpHX.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2012862520441324006",
+        "created_at": "2026-01-18T16:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012918859146084452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1366338848205070336",
+              "start": 0,
+              "username": "Yuistax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012918859146084452",
+        "in_reply_to_user_id": "1366338848205070336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012862520441324006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuistax fnc这次发挥是真的好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2012862389583056896"
+          ]
+        },
+        "author_id": "1366338848205070336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fnatic (eSports)",
+              "id": "871532956644368384",
+              "name": "Fnatic "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "Fnatic (eSports)",
+              "id": "871532956644368384",
+              "name": "Fnatic "
+            }
+          }
+        ],
+        "conversation_id": "2012862520441324006",
+        "created_at": "2026-01-18T12:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012862520441324006"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "FNCWIN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZ1kSDR7vK",
+              "end": 82,
+              "expanded_url": "https://x.com/Yuistax/status/2012862520441324006/video/1",
+              "media_key": "7_2012862389583056896",
+              "start": 59,
+              "url": "https://t.co/VZ1kSDR7vK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012862520441324006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 33982,
+          "like_count": 1321,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "#FNCWIN\nFNATIC みんなで肩組んで｢ありがとうございました｣なんて言われたら泣くしかないじゃないですか😭 https://t.co/VZ1kSDR7vK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "2009.4.16出生，已经接触mtf很长时间，目前hrt忘了（，做跨儿具体原因还是因为我长达1年半的抑郁症导致的吧，希望有缘人提供国内hrt资源...",
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792766072745267200/plkJKVfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 42,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 42
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T10:46:27.000Z",
+        "description": "ストリーマー好き　東海オンエア好き　音楽はずとまよが好き\n\n釈迦/けんき/ゆきお/ta1yo/k4sen/葛葉\n\nエペの競技とVALOを見るのが好き/\n　#FNCWIN\n　#RIDWIN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 77,
+                "tag": "FNCWIN"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "RIDWIN"
+              }
+            ]
+          }
+        },
+        "id": "1366338848205070336",
+        "location": "日本 愛知",
+        "name": "Yui",
+        "pinned_tweet_id": "1838156009451495622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770052323857039360/J1vJnOai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 2352,
+          "like_count": 72431,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 13320
+        },
+        "username": "Yuistax",
+        "verified": false
+      }
+    ]
+  }
+}

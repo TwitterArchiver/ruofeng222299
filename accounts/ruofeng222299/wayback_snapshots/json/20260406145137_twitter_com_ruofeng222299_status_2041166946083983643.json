@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2041166946083983643",
+    "created_at": "2026-04-06T14:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041166946083983643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blingbling712/…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/blingbling712/status/2040966969516601547",
+          "start": 158,
+          "url": "https://t.co/Of1sbcdmT6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041166946083983643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040966969516601547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "MTF交友规则怪谈\n\n1.XXN是个重度缺爱的群体，请多多给他们爱\n2.若你的朋友有自杀冲动，请多多关爱他们，帮助他们走出阴影，他们会极度感谢你\n3.打招呼时请使用“喵喵喵”\n4.若你的朋友OD未成瘾，请及时劝阻，若已成瘾，请多多关爱他们\n5.请不要随意键政，部分XNN反感键政行为\n6.请使用“姐姐”“妹妹”称呼 https://t.co/Of1sbcdmT6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2041166946083983643",
+        "created_at": "2026-04-06T14:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041166946083983643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blingbling712/…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/blingbling712/status/2040966969516601547",
+              "start": 158,
+              "url": "https://t.co/Of1sbcdmT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041166946083983643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040966969516601547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "MTF交友规则怪谈\n\n1.XXN是个重度缺爱的群体，请多多给他们爱\n2.若你的朋友有自杀冲动，请多多关爱他们，帮助他们走出阴影，他们会极度感谢你\n3.打招呼时请使用“喵喵喵”\n4.若你的朋友OD未成瘾，请及时劝阻，若已成瘾，请多多关爱他们\n5.请不要随意键政，部分XNN反感键政行为\n6.请使用“姐姐”“妹妹”称呼 https://t.co/Of1sbcdmT6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2040966969516601547",
+        "created_at": "2026-04-06T01:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040966969516601547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagura_yukikaz…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/kagura_yukikaze/status/2040766063902863520",
+              "start": 158,
+              "url": "https://t.co/SxVAQf9nTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040966969516601547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1031,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040766063902863520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "MTF交友规则怪谈\n\n1.XXN是个重度缺爱的群体，请多多给他们爱\n2.若你的朋友有自杀冲动，请多多关爱他们，帮助他们走出阴影，他们会极度感谢你\n3.打招呼时请使用“喵喵喵”\n4.若你的朋友OD未成瘾，请及时劝阻，若已成瘾，请多多关爱他们\n5.请不要随意键政，部分XNN反感键政行为\n6.请使用“姐姐”“妹妹”称呼 https://t.co/SxVAQf9nTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09.4.16出生/2023.5.12hrt/177cm /od？/自残有点上瘾/喜欢帅哥/喜欢弹吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/qq号私信欢迎加/暗恋对象@Ciallo_114_514/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 98,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月（想小柒版）",
+        "pinned_tweet_id": "2040300521500926166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 242,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 705
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 260,
+          "like_count": 4683,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 700
+        },
+        "username": "blingbling712",
+        "verified": true
+      }
+    ]
+  }
+}

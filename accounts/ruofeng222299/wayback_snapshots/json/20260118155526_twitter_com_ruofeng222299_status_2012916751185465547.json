@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2012850658442092723",
+    "created_at": "2026-01-18T15:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012916751185465547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003081838965960704",
+          "start": 0,
+          "username": "Gatsuue_inf"
+        },
+        {
+          "end": 28,
+          "id": "1809999270285897728",
+          "start": 13,
+          "username": "VeryKuaiGaming"
+        },
+        {
+          "end": 42,
+          "id": "1869964619307200517",
+          "start": 29,
+          "username": "INZONEbySony"
+        },
+        {
+          "end": 59,
+          "id": "1408511315417604097",
+          "start": 43,
+          "username": "PlayApexEsports"
+        },
+        {
+          "end": 76,
+          "id": "1882685094357561344",
+          "start": 60,
+          "username": "INZONEbySony_JP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012916751185465547",
+    "in_reply_to_user_id": "2003081838965960704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012891055029706859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gatsuue_inf @VeryKuaiGaming @INZONEbySony @PlayApexEsports @INZONEbySony_JP 后期文轩的耳麦直接炸麦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2012850658442092723",
+        "created_at": "2026-01-18T15:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012916751185465547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003081838965960704",
+              "start": 0,
+              "username": "Gatsuue_inf"
+            },
+            {
+              "end": 28,
+              "id": "1809999270285897728",
+              "start": 13,
+              "username": "VeryKuaiGaming"
+            },
+            {
+              "end": 42,
+              "id": "1869964619307200517",
+              "start": 29,
+              "username": "INZONEbySony"
+            },
+            {
+              "end": 59,
+              "id": "1408511315417604097",
+              "start": 43,
+              "username": "PlayApexEsports"
+            },
+            {
+              "end": 76,
+              "id": "1882685094357561344",
+              "start": 60,
+              "username": "INZONEbySony_JP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012916751185465547",
+        "in_reply_to_user_id": "2003081838965960704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012891055029706859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gatsuue_inf @VeryKuaiGaming @INZONEbySony @PlayApexEsports @INZONEbySony_JP 后期文轩的耳麦直接炸麦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003081838965960704",
+        "conversation_id": "2012850658442092723",
+        "created_at": "2026-01-18T14:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012891055029706859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1809999270285897728",
+              "start": 0,
+              "username": "VeryKuaiGaming"
+            },
+            {
+              "end": 29,
+              "id": "1869964619307200517",
+              "start": 16,
+              "username": "INZONEbySony"
+            },
+            {
+              "end": 46,
+              "id": "1408511315417604097",
+              "start": 30,
+              "username": "PlayApexEsports"
+            },
+            {
+              "end": 63,
+              "id": "1882685094357561344",
+              "start": 47,
+              "username": "INZONEbySony_JP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012891055029706859",
+        "in_reply_to_user_id": "1809999270285897728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012850658442092723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VeryKuaiGaming @INZONEbySony @PlayApexEsports @INZONEbySony_JP 我记得吧友也说耳机有问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "2009.4.16出生，已经接触mtf很长时间，目前hrt忘了（，做跨儿具体原因还是因为我长达1年半的抑郁症导致的吧，希望有缘人提供国内hrt资源...",
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792766072745267200/plkJKVfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 42,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T12:35:12.000Z",
+        "description": "男的    不是男娘    是正常人\n把推當qq空間使的    因為推沒人認識所以可以肆無忌憚地發    qq空間就不行了",
+        "id": "2003081838965960704",
+        "location": "上海/南宁",
+        "name": "月上Gatsuue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012907368615411712/NLa7c8Qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 279,
+          "like_count": 309,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 447
+        },
+        "username": "Gatsuue_inf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T17:14:14.000Z",
+        "description": "VK GAMING official twitter account from APACS",
+        "id": "1809999270285897728",
+        "location": "Hong Kong",
+        "name": "VK Gaming",
+        "pinned_tweet_id": "1944541936347673046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828807275747876864/GPYgrzQV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4929,
+          "following_count": 126,
+          "like_count": 67,
+          "listed_count": 11,
+          "media_count": 19,
+          "tweet_count": 42
+        },
+        "username": "VeryKuaiGaming",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T04:35:36.000Z",
+        "description": "The official account of Sony INZONE.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sony.net/inzone",
+                "end": 23,
+                "expanded_url": "http://sony.net/inzone",
+                "start": 0,
+                "url": "https://t.co/4d1lRUtw5R"
+              }
+            ]
+          }
+        },
+        "id": "1869964619307200517",
+        "name": "Sony | INZONE",
+        "pinned_tweet_id": "1957834948167033134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877653398386028544/1_H5-lz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 38,
+          "like_count": 134,
+          "listed_count": 5,
+          "media_count": 123,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/4d1lRUtw5R",
+        "username": "INZONEbySony",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-25T19:45:55.000Z",
+        "description": "The official account for @PlayApex Esports",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "PlayApex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "algs.ea.com/year-5/champs-…",
+                "end": 23,
+                "expanded_url": "http://algs.ea.com/year-5/champs-2026",
+                "start": 0,
+                "url": "https://t.co/RWUKUovovd"
+              }
+            ]
+          }
+        },
+        "id": "1408511315417604097",
+        "name": "Apex Legends Esports",
+        "pinned_tweet_id": "2012808429560279275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981758005029838849/B8MWCXlc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241527,
+          "following_count": 950,
+          "like_count": 9632,
+          "listed_count": 607,
+          "media_count": 7122,
+          "tweet_count": 9409
+        },
+        "url": "https://t.co/RWUKUovovd",
+        "username": "PlayApexEsports",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T07:03:27.000Z",
+        "description": "ソニー公式アカウント(日本向け)。INZONEに関連する情報を発信します。なお、現在お使いのINZONE製品でお困りのことはソニーサポートにお願いいたします。\n@Sony_JP_Support\n\n■ソーシャルメディア利用規約：https://t.co/beNXjKZLFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "Sony_JP_Support"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sony.jp/socialmedia/ag…",
+                "end": 136,
+                "expanded_url": "https://www.sony.jp/socialmedia/agreement/",
+                "start": 113,
+                "url": "https://t.co/beNXjKZLFW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sony.jp/inzone/?s_tc=j…",
+                "end": 23,
+                "expanded_url": "https://www.sony.jp/inzone/?s_tc=jp_sm_tw_inzone_x_profile",
+                "start": 0,
+                "url": "https://t.co/vaRprHsUfH"
+              }
+            ]
+          }
+        },
+        "id": "1882685094357561344",
+        "location": "Japan",
+        "name": "Sony | INZONE (Japan)",
+        "pinned_tweet_id": "2011460103778746825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889524868825358337/-geLkcpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134837,
+          "following_count": 23,
+          "like_count": 142,
+          "listed_count": 49,
+          "media_count": 298,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/vaRprHsUfH",
+        "username": "INZONEbySony_JP",
+        "verified": true
+      }
+    ]
+  }
+}

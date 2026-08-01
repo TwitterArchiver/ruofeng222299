@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1792759159525654528",
+    "conversation_id": "2035881651922944228",
+    "created_at": "2026-03-23T03:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T04:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035921928461152752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417099624922370056",
+          "start": 0,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035921928461152752",
+    "in_reply_to_user_id": "1417099624922370056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035881651922944228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinGZiSaMa_8964 好帅，好喜欢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16517,
+        "height": 720,
+        "media_key": "7_2035881607807291392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2035881607807291392/pu/img/5ao9uXczQsE9jRdZ.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035881607807291392/pu/vid/avc1/480x270/R6xYonoAoRharwJ2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035881607807291392/pu/vid/avc1/640x360/GJOtg8HduVU5utXB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035881607807291392/pu/vid/avc1/1280x720/NjPCQ7nCrgGkkAGL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2035881607807291392/pu/pl/1qFb6r687jpmzQ1C.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792759159525654528",
+        "conversation_id": "2035881651922944228",
+        "created_at": "2026-03-23T03:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035921928461152752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417099624922370056",
+              "start": 0,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035921928461152752",
+        "in_reply_to_user_id": "1417099624922370056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035881651922944228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinGZiSaMa_8964 好帅，好喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2035881607807291392"
+          ]
+        },
+        "author_id": "1417099624922370056",
+        "conversation_id": "2035881651922944228",
+        "created_at": "2026-03-23T00:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035881651922944228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFCtzPIMwd",
+              "end": 84,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2035881651922944228/video/1",
+              "media_key": "7_2035881607807291392",
+              "start": 61,
+              "url": "https://t.co/pFCtzPIMwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035881651922944228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到了半年前录的视频。。。\n那个时候我还没有od，现在感觉那个时候我弹琴好厉害，现在就是一条蛆一样，快一个星期没碰吉他了 https://t.co/pFCtzPIMwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "09.4.16出生/2023.5.12hrt/177cm /不od/自残有点上瘾/喜欢帅哥/喜欢弹吉他🎸/视频调色/剪辑/blender建模/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/暗恋对象@YunoQiu56649/天使姐姐@xiow221325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "xiow221325"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 224,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 470
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "😈😈我是恶魔嘻嘻嘻｜男高｜友跨｜koishi激推｜电吉他学习ing｜Guns N' Roses｜oder｜自残过一段时间但已戒｜双相｜日语学习中｜喜欢猫｜互fo请私信喵｜提问箱：https://t.co/0yYZjwBLkU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingzisama",
+                "end": 112,
+                "expanded_url": "https://ngl.link/xingzisama",
+                "start": 89,
+                "url": "https://t.co/0yYZjwBLkU"
+              }
+            ]
+          }
+        },
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性子sama🐾🎸",
+        "pinned_tweet_id": "2032718174379225562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 411,
+          "like_count": 52496,
+          "listed_count": 3,
+          "media_count": 1563,
+          "tweet_count": 9571
+        },
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      }
+    ]
+  }
+}
